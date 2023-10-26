@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "Mouspad HYPERX (Talle S)", "precio": 10000, "imagen": "https://http2.mlstatic.com/D_NQ_NP_791920-MLA43091250694_082020-O.webp" },
+    { "id": 2, "nombre": "Mouspad HYPERX (Talle M)", "precio": 20000, "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_fury_s_mouse_pad_speed_addition_cloth_m_1_main_900x.jpg?v=1662421090" },
+    { "id": 3, "nombre": "Mouspad HYPERX (Talle L)", "precio": 35000, "imagen": "https://row.hyperx.com/cdn/shop/products/hyperx_fury_s_gaming_mouse_pad_speed_edition_cloth_l_1_main_900x.jpg?v=1662421090" },
+    { "id": 4, "nombre": "Mouspad Personalizado (Talles XL)", "precio": 40000, "imagen": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_29717_Mouse_Pad_Logitech_300x700mm_Deskpad_Lavanda_a5d7039f-grn.jpg" }
+]
